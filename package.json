@@ -1,0 +1,15 @@
+{
+  "name": "xiangqi-h5",
+  "version": "1.0.0",
+  "description": "微信好友联机中国象棋 H5 (Node + WebSocket，服务端权威校验)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
